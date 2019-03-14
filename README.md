@@ -2,4 +2,7 @@
 
 ### Arrays
 [RotateArrDistance.py](https://github.com/parvathic/c-questions/blob/master/arrays/Rotatearraydistance.ipynb)
+
 [Twosum.py](https://github.com/parvathic/c-questions/blob/master/arrays/TwoSum.ipynb)
+
+[Insertposition.py](https://github.com/parvathic/c-questions/blob/master/arrays/SearchInsertPosition.ipynb)
