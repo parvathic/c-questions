@@ -1,4 +1,4 @@
-## Leetcode problems solved in Python and can be opened on Colab
+## Leetcode/DS + algo problems solved in Python and can be opened on Colab
 
 ### Arrays
 [RotateArrDistance.py](https://github.com/parvathic/c-questions/blob/master/arrays/Rotatearraydistance.ipynb)
