@@ -5,6 +5,9 @@
 ### 2) [Dict Comprehensions] 
 ### 3) [Set Comprehensions] 
 
+## Multithreading + Examples
+[Examples](https://github.com/parvathic/python-ds-notebooks/blob/master/Multithreading_basics_%2B_examples.ipynb)
+
 ## Leetcode problems solved in Python:
 ### 1) Arrays
 [RotateArrDistance.py](https://github.com/parvathic/c-questions/blob/master/arrays/Rotatearraydistance.ipynb)
